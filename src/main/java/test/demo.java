@@ -124,8 +124,6 @@ public class demo {
 //            System.out.println( flaggit.getFront());
         }
         flag.display();
-
-
     }
 
 }
