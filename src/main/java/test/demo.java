@@ -121,7 +121,7 @@ public class demo {
         demo flag = new demo();
         for(int i = 0; i < 12; i++){
             flag.add(i);
-//            System.out.println( flag.getFront());
+//            System.out.println( flaggit.getFront());
         }
         flag.display();
 
