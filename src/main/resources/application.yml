@@ -1,0 +1,13 @@
+
+server:
+  port: 8089
+spring:
+  thymeleaf:
+    cache: false
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: 4103d65d9cf36c8b34cc
+            client-secret: dfb16a64442d2404c74a7c4d49556c2e29bde32f
